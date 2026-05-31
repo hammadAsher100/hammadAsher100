@@ -20,7 +20,7 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hammadAsher100&style=flat-square&color=58a6ff&label=PROFILE+VIEWS)
-![Repos](https://img.shields.io/badge/PUBLIC%20REPOS-16-58a6ff?style=flat-square)
+![Repos](https://img.shields.io/badge/PUBLIC%20REPOS-20-58a6ff?style=flat-square)
 ![University](https://img.shields.io/badge/Bahria%20University-2024--2028-0d1117?style=flat-square&labelColor=58a6ff&color=0d1117)
 
 </div>
