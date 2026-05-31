@@ -1,11 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=120&section=header&text=Hammad%20Asher&fontSize=42&fontColor=58a6ff&fontAlignY=65&animation=fadeIn" width="100%"/>
-
-</div>
-
-<div align="center">
-
 ```
   ██╗  ██╗ █████╗ ███╗   ███╗███╗   ███╗ █████╗ ██████╗
   ██║  ██║██╔══██╗████╗ ████║████╗ ████║██╔══██╗██╔══██╗
