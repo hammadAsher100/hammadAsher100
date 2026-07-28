@@ -1,0 +1,73 @@
+<svg width="1400" height="300" viewBox="0 0 1400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1400" y2="300">
+      <stop stop-color="#07131F"/>
+      <stop offset="0.5" stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#120A29"/>
+    </linearGradient>
+
+    <linearGradient id="snake" x1="80" y1="0" x2="1310" y2="0">
+      <stop stop-color="#00D4FF"/>
+      <stop offset="0.48" stop-color="#58A6FF"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <rect x="4" y="4" width="20" height="20" rx="5" fill="#161B22"/>
+      <rect x="4" y="4" width="20" height="20" rx="5" stroke="#30363D" stroke-opacity="0.5"/>
+    </pattern>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <clipPath id="frame">
+      <rect x="16" y="16" width="1368" height="268" rx="30"/>
+    </clipPath>
+
+    <path id="route" d="M86 196C180 90 280 232 380 130C470 38 566 226 665 126C760 30 850 214 950 116C1050 20 1150 198 1310 82"/>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect x="16" y="16" width="1368" height="268" rx="30" fill="url(#bg)"/>
+    <rect x="50" y="78" width="1300" height="160" rx="22" fill="url(#grid)" opacity="0.78"/>
+
+    <text x="68" y="57" fill="#7DD3FC" font-size="14" font-family="monospace" letter-spacing="4">LOCAL CONTRIBUTION FLOW</text>
+
+    <use href="#route" stroke="#30363D" stroke-width="5" fill="none" stroke-linecap="round"/>
+    <use href="#route" stroke="url(#snake)" stroke-width="5" fill="none" stroke-linecap="round" filter="url(#glow)"
+         stroke-dasharray="120 1500">
+      <animate attributeName="stroke-dashoffset" values="0;-1620" dur="7s" repeatCount="indefinite"/>
+    </use>
+
+    <g>
+      <circle r="13" fill="#00D4FF" filter="url(#glow)">
+        <animateMotion dur="7s" repeatCount="indefinite" rotate="auto">
+          <mpath href="#route"/>
+        </animateMotion>
+      </circle>
+      <circle r="4" fill="#FFFFFF">
+        <animateMotion dur="7s" repeatCount="indefinite" rotate="auto">
+          <mpath href="#route"/>
+        </animateMotion>
+      </circle>
+    </g>
+
+    <g transform="translate(1010 41)">
+      <text x="0" y="0" fill="#8B949E" font-size="12" font-family="monospace">BUILD</text>
+      <circle cx="63" cy="-4" r="3" fill="#58A6FF"/>
+      <text x="78" y="0" fill="#8B949E" font-size="12" font-family="monospace">COMMIT</text>
+      <circle cx="150" cy="-4" r="3" fill="#7C3AED"/>
+      <text x="165" y="0" fill="#8B949E" font-size="12" font-family="monospace">ITERATE</text>
+      <circle cx="248" cy="-4" r="3" fill="#00D4FF"/>
+      <text x="263" y="0" fill="#8B949E" font-size="12" font-family="monospace">SHIP</text>
+    </g>
+
+    <rect x="16.5" y="16.5" width="1367" height="267" rx="29.5" stroke="url(#snake)" stroke-opacity="0.56"/>
+    <rect x="16.5" y="16.5" width="1367" height="267" rx="29.5" stroke="#FFFFFF" stroke-opacity="0.06"/>
+  </g>
+</svg>

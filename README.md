@@ -312,28 +312,11 @@ STRUCTURED AND AUDITABLE OUTPUT
 
 <div align="center">
 
-<a href="https://github.com/hammadAsher100">
-  <img height="185" src="https://github-readme-stats.vercel.app/api?username=hammadAsher100&show_icons=true&theme=transparent&hide_border=true&title_color=7DD3FC&icon_color=7C3AED&text_color=C9D1D9&bg_color=00000000&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub statistics"/>
-</a>
-<a href="https://github.com/hammadAsher100">
-  <img height="185" src="https://github-readme-streak-stats.herokuapp.com/?user=hammadAsher100&theme=transparent&hide_border=true&stroke=30363D&ring=7C3AED&fire=00D4FF&currStreakLabel=7DD3FC&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak"/>
-</a>
+<img src="./assets/engineering_signal.svg" width="100%" alt="Engineering signal dashboard"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadAsher100&layout=donut&theme=transparent&hide_border=true&title_color=7DD3FC&text_color=C9D1D9&bg_color=00000000&langs_count=8&size_weight=0.5&count_weight=0.5" height="260" alt="Most used languages"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hammadAsher100&bg_color=00000000&color=7DD3FC&line=7C3AED&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=true&custom_title=Contribution%20Signal" width="100%" alt="Contribution activity graph"/>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hammadAsher100/hammadAsher100/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hammadAsher100/hammadAsher100/output/github-contribution-grid-snake.svg"/>
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/hammadAsher100/hammadAsher100/output/github-contribution-grid-snake.svg"/>
-</picture>
+<img src="./assets/contribution_flow.svg" width="100%" alt="Animated local contribution flow"/>
 
 </div>
 
