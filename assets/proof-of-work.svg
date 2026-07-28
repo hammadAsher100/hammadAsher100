@@ -1,0 +1,164 @@
+<svg width="1400" height="520" viewBox="0 0 1400 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1400" y2="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#070B14"/>
+      <stop offset="0.52" stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#071A2A"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="120" y1="90" x2="1270" y2="450" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00D4FF"/>
+      <stop offset="0.46" stop-color="#58A6FF"/>
+      <stop offset="0.76" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+
+    <linearGradient id="gold" x1="190" y1="95" x2="360" y2="330" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF2A8"/>
+      <stop offset="0.35" stop-color="#F59E0B"/>
+      <stop offset="1" stop-color="#92400E"/>
+    </linearGradient>
+
+    <radialGradient id="cyanOrb">
+      <stop offset="0" stop-color="#00D4FF" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#00D4FF" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="purpleOrb">
+      <stop offset="0" stop-color="#7C3AED" stop-opacity="0.42"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" stroke="#58A6FF" stroke-width="1" stroke-opacity="0.055"/>
+    </pattern>
+
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#000000" flood-opacity="0.55"/>
+    </filter>
+
+    <clipPath id="frame">
+      <rect x="16" y="16" width="1368" height="488" rx="32"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect x="16" y="16" width="1368" height="488" rx="32" fill="url(#bg)"/>
+    <rect x="16" y="16" width="1368" height="488" rx="32" fill="url(#grid)"/>
+
+    <circle cx="170" cy="110" r="250" fill="url(#cyanOrb)">
+      <animate attributeName="cx" values="140;250;140" dur="11s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1180" cy="420" r="300" fill="url(#purpleOrb)">
+      <animate attributeName="cy" values="430;310;430" dur="13s" repeatCount="indefinite"/>
+    </circle>
+
+    <path d="M40 420C230 360 350 470 550 402C760 330 920 450 1110 365C1210 320 1305 335 1390 300"
+          stroke="url(#accent)" stroke-width="2" stroke-opacity="0.28">
+      <animate attributeName="d"
+        values="M40 420C230 360 350 470 550 402C760 330 920 450 1110 365C1210 320 1305 335 1390 300;
+                M40 390C230 470 380 340 560 405C770 480 930 335 1110 398C1210 435 1300 350 1390 390;
+                M40 420C230 360 350 470 550 402C760 330 920 450 1110 365C1210 320 1305 335 1390 300"
+        dur="12s" repeatCount="indefinite"/>
+    </path>
+
+    <text x="74" y="76" fill="#7DD3FC" font-size="17" font-family="monospace" letter-spacing="4">VERIFIED BUILD RECORD</text>
+    <text x="74" y="126" fill="#FFFFFF" font-size="43" font-weight="800" font-family="Segoe UI, Arial, sans-serif" letter-spacing="1">PROOF OF WORK</text>
+    <rect x="74" y="146" width="520" height="3" rx="2" fill="url(#accent)" filter="url(#softGlow)">
+      <animate attributeName="width" values="180;520;180" dur="7s" repeatCount="indefinite"/>
+    </rect>
+
+    <g transform="translate(76 186)">
+      <rect width="390" height="244" rx="24" fill="#0B1220" fill-opacity="0.88" stroke="#F59E0B" stroke-opacity="0.34"/>
+      <rect x="1" y="1" width="388" height="242" rx="23" stroke="url(#gold)" stroke-opacity="0.16"/>
+
+      <g transform="translate(28 31)">
+        <circle cx="68" cy="68" r="63" fill="#18130A" stroke="url(#gold)" stroke-width="3"/>
+        <circle cx="68" cy="68" r="48" fill="none" stroke="#F59E0B" stroke-opacity="0.4" stroke-width="2" stroke-dasharray="7 8">
+          <animateTransform attributeName="transform" type="rotate" from="0 68 68" to="360 68 68" dur="12s" repeatCount="indefinite"/>
+        </circle>
+        <path d="M42 77L59 94L97 48" stroke="#FFD166" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" filter="url(#softGlow)"/>
+        <text x="68" y="154" text-anchor="middle" fill="#FCD34D" font-family="monospace" font-size="13">FIRST PLACE</text>
+      </g>
+
+      <text x="184" y="58" fill="#8B949E" font-size="14" font-family="monospace">TECHATHON 2.0</text>
+      <text x="184" y="92" fill="#FFFFFF" font-size="22" font-weight="700" font-family="Segoe UI, Arial, sans-serif">Agentic AI Track</text>
+      <text x="184" y="128" fill="#C9D1D9" font-size="16" font-family="Segoe UI, Arial, sans-serif">Project Tartarus</text>
+      <text x="184" y="157" fill="#7DD3FC" font-size="14" font-family="monospace">COGNITIVE ARBITRATION</text>
+
+      <rect x="184" y="181" width="160" height="34" rx="17" fill="#1F6FEB" fill-opacity="0.18" stroke="#58A6FF" stroke-opacity="0.48"/>
+      <text x="264" y="203" text-anchor="middle" fill="#A5D8FF" font-family="monospace" font-size="12">AWARD VERIFIED</text>
+    </g>
+
+    <g transform="translate(500 186)">
+      <rect width="824" height="244" rx="24" fill="#0B1220" fill-opacity="0.76" stroke="#58A6FF" stroke-opacity="0.22"/>
+
+      <text x="30" y="38" fill="#8B949E" font-size="13" font-family="monospace" letter-spacing="2">SYSTEM PORTFOLIO</text>
+
+      <g transform="translate(30 60)">
+        <rect width="238" height="72" rx="16" fill="#101827" stroke="#EF4444" stroke-opacity="0.38"/>
+        <circle cx="28" cy="26" r="8" fill="#EF4444">
+          <animate attributeName="opacity" values="0.35;1;0.35" dur="2.2s" repeatCount="indefinite"/>
+        </circle>
+        <text x="48" y="31" fill="#FFFFFF" font-size="17" font-weight="700" font-family="Segoe UI, Arial, sans-serif">Project Tartarus</text>
+        <text x="22" y="56" fill="#8B949E" font-size="12" font-family="monospace">AGENTS  SECURITY  REASONING</text>
+      </g>
+
+      <g transform="translate(284 60)">
+        <rect width="238" height="72" rx="16" fill="#101827" stroke="#22C55E" stroke-opacity="0.36"/>
+        <circle cx="28" cy="26" r="8" fill="#22C55E">
+          <animate attributeName="opacity" values="1;0.35;1" dur="2.8s" repeatCount="indefinite"/>
+        </circle>
+        <text x="48" y="31" fill="#FFFFFF" font-size="17" font-weight="700" font-family="Segoe UI, Arial, sans-serif">MediMind AI</text>
+        <text x="22" y="56" fill="#8B949E" font-size="12" font-family="monospace">RAG  MLOPS  HEALTHCARE</text>
+      </g>
+
+      <g transform="translate(538 60)">
+        <rect width="238" height="72" rx="16" fill="#101827" stroke="#F97316" stroke-opacity="0.38"/>
+        <circle cx="28" cy="26" r="8" fill="#F97316">
+          <animate attributeName="opacity" values="0.35;1;0.35" dur="3.1s" repeatCount="indefinite"/>
+        </circle>
+        <text x="48" y="31" fill="#FFFFFF" font-size="17" font-weight="700" font-family="Segoe UI, Arial, sans-serif">Clinical AI</text>
+        <text x="22" y="56" fill="#8B949E" font-size="12" font-family="monospace">CNN  BILSTM  HITL</text>
+      </g>
+
+      <g transform="translate(30 148)">
+        <rect width="238" height="72" rx="16" fill="#101827" stroke="#38BDF8" stroke-opacity="0.38"/>
+        <circle cx="28" cy="26" r="8" fill="#38BDF8">
+          <animate attributeName="opacity" values="1;0.35;1" dur="2.5s" repeatCount="indefinite"/>
+        </circle>
+        <text x="48" y="31" fill="#FFFFFF" font-size="17" font-weight="700" font-family="Segoe UI, Arial, sans-serif">Bank MLOps</text>
+        <text x="22" y="56" fill="#8B949E" font-size="12" font-family="monospace">TRACKING  DRIFT  CI CD</text>
+      </g>
+
+      <g transform="translate(284 148)">
+        <rect width="238" height="72" rx="16" fill="#101827" stroke="#A78BFA" stroke-opacity="0.38"/>
+        <circle cx="28" cy="26" r="8" fill="#A78BFA">
+          <animate attributeName="opacity" values="0.35;1;0.35" dur="2.9s" repeatCount="indefinite"/>
+        </circle>
+        <text x="48" y="31" fill="#FFFFFF" font-size="17" font-weight="700" font-family="Segoe UI, Arial, sans-serif">Multimodal RAG</text>
+        <text x="22" y="56" fill="#8B949E" font-size="12" font-family="monospace">TEXT  VISION  RETRIEVAL</text>
+      </g>
+
+      <g transform="translate(538 148)">
+        <rect width="238" height="72" rx="16" fill="#101827" stroke="#14B8A6" stroke-opacity="0.38"/>
+        <circle cx="28" cy="26" r="8" fill="#14B8A6">
+          <animate attributeName="opacity" values="1;0.35;1" dur="3.4s" repeatCount="indefinite"/>
+        </circle>
+        <text x="48" y="31" fill="#FFFFFF" font-size="17" font-weight="700" font-family="Segoe UI, Arial, sans-serif">ZipITSmart</text>
+        <text x="22" y="56" fill="#8B949E" font-size="12" font-family="monospace">C SHARP  HUFFMAN  DESKTOP</text>
+      </g>
+    </g>
+
+    <rect x="16.5" y="16.5" width="1367" height="487" rx="31.5" stroke="url(#accent)" stroke-opacity="0.58"/>
+    <rect x="16.5" y="16.5" width="1367" height="487" rx="31.5" stroke="#FFFFFF" stroke-opacity="0.06"/>
+  </g>
+</svg>

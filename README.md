@@ -99,6 +99,13 @@ STACK       PYTHON FIRST
 
 <div align="center">
 
+<img src="./assets/proof-of-work.svg" width="100%" alt="Proof of work showcase"/>
+
+</div>
+
+
+<div align="center">
+
 <img src="https://github-profile-trophy.vercel.app/?username=hammadAsher100&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7" width="100%" alt="GitHub trophies"/>
 
 </div>
@@ -295,6 +302,13 @@ STRUCTURED AND AUDITABLE OUTPUT
 <br/>
 
 ## `06  GitHub Pulse`
+
+<div align="center">
+
+<img src="./assets/github-pulse.svg" width="100%" alt="GitHub pulse visualization"/>
+
+</div>
+
 
 <div align="center">
 
