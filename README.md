@@ -1,164 +1,198 @@
 <div align="center">
 
-```
-  ██╗  ██╗ █████╗ ███╗   ███╗███╗   ███╗ █████╗ ██████╗
-  ██║  ██║██╔══██╗████╗ ████║████╗ ████║██╔══██╗██╔══██╗
-  ███████║███████║██╔████╔██║██╔████╔██║███████║██║  ██║
-  ██╔══██║██╔══██║██║╚██╔╝██║██║╚██╔╝██║██╔══██║██║  ██║
-  ██║  ██║██║  ██║██║ ╚═╝ ██║██║ ╚═╝ ██║██║  ██║██████╔╝
-  ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=230&section=header&text=Hammad%20Asher&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Systems%20Builder&descAlignY=59&descSize=20" width="100%" alt="Hammad Asher banner"/>
 
-**`> Software Engineering Student  ·  AI/ML Builder  ·  Systems Thinker`**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+production+grade+AI+systems;Designing+multi+agent+workflows;Shipping+machine+learning+with+MLOps;Turning+research+into+working+software" alt="Typing introduction"/>
+</a>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hammad-asher-b08826329)
-[![GitHub](https://img.shields.io/badge/GitHub-%23171515.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hammadAsher100)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hammadasher_/)
+<strong>Software Engineering Student · AI Systems Builder · MLOps Practitioner</strong>
 
-<br/>
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=hammadAsher100&style=flat-square&color=58a6ff&label=PROFILE+VIEWS)
-![Repos](https://img.shields.io/badge/PUBLIC%20REPOS-20-58a6ff?style=flat-square)
-![University](https://img.shields.io/badge/Bahria%20University-2024--2028-0d1117?style=flat-square&labelColor=58a6ff&color=0d1117)
+<a href="https://linkedin.com/in/hammad-asher-b08826329">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:hammadAsher100@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/hammadAsher100?tab=repositories">
+  <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=hammadAsher100&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://img.shields.io/badge/Location-Karachi%2C%20Pakistan-0D1117?style=flat-square&labelColor=1F6FEB" alt="Location"/>
+<img src="https://img.shields.io/badge/Bahria%20University-Software%20Engineering-0D1117?style=flat-square&labelColor=1F6FEB" alt="University"/>
 
 </div>
 
 <br/>
 
----
+## `01. About`
 
-## `$ whoami`
+I am a Software Engineering student at **Bahria University, Karachi**, focused on building intelligent systems that operate beyond the notebook.
+
+My work combines machine learning, agent orchestration, backend engineering, explainability, deployment, observability, and security. I am especially interested in systems where multiple components must reason, communicate, recover from failure, and produce reliable outputs under real constraints.
 
 ```python
-class Hammad:
-    name        = "Hammad Asher"
-    university  = "Bahria University, Karachi  [2024 – 2028]"
-    degree      = "Software Engineering"
-    location    = "Karachi, Pakistan 🇵🇰"
-    interests   = [
-        "Machine Learning & Multi-Agent AI",
-        "Systems Programming",
-        "Audio Processing",
-        "Full-Stack Web Development",
-    ]
-    currently   = "Building AI systems & surviving university deadlines"
-    ask_me_about = ["Python", "ML Pipelines", "Design Patterns", "OS internals"]
+hammad = {
+    "role": "Software Engineering Student and AI Systems Builder",
+    "base": "Karachi, Pakistan",
+    "education": "BSE at Bahria University",
+    "specialization": [
+        "Agentic AI and LLM orchestration",
+        "Machine learning and multimodal systems",
+        "MLOps and production deployment",
+        "Backend architecture and APIs",
+    ],
+    "engineering_values": [
+        "Architecture before hype",
+        "Explainability before blind trust",
+        "Reproducibility before demos",
+        "Shipping before endless polishing",
+    ],
+}
 ```
 
 <br/>
 
----
-
-## `$ ls ./skills --verbose`
-
-<div align="center">
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Web & Backend
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Machine Learning & Data
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### Databases
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-
-</div>
-
-<br/>
-
----
-
-## `$ cat ./projects.log`
-
-<br/>
+## `02. Engineering Focus`
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 Tartarus Dialectic Engine</h3>
-      <p><em>Multi-Agent AI · Built from scratch</em></p>
-      <p>Custom multi-agent framework where AI agents engage in structured dialectical reasoning. Zero LangChain or LangGraph — raw API orchestration, agent memory, and turn-based debate logic built entirely from first principles.</p>
+      <h3>🧠 Intelligent Systems</h3>
+      <p>Multi agent orchestration, retrieval augmented generation, multimodal AI, tool use, structured outputs, memory, evaluation loops, and defensive prompt handling.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔬 Applied Machine Learning</h3>
+      <p>Data pipelines, feature engineering, model selection, deep learning, transfer learning, NLP, computer vision, explainability, and human review workflows.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚙️ MLOps and Deployment</h3>
+      <p>Experiment tracking, model serving, Docker, continuous integration, cloud deployment, drift awareness, monitoring, logging, and reproducible environments.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧩 Backend Architecture</h3>
+      <p>FastAPI and Django services, REST APIs, authentication, relational databases, vector stores, service boundaries, asynchronous workloads, and production debugging.</p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## `03. Selected Achievement`
+
+> ### 🏆 First Place · Agentic AI Track · Techathon 2.0
+>
+> Built **Project Tartarus**, a cognitive arbitration engine where autonomous agents debate compromised reactor telemetry using physics laws, isolate fabricated sensor data, defend against prompt injection, and return a deterministic JSON verdict.
+
+<a href="https://github.com/hammadAsher100/Agentic_ai_Physics_law">
+  <img src="https://img.shields.io/badge/View_Project_Tartarus-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="View Project Tartarus"/>
+</a>
+
+<br/><br/>
+
+## `04. Featured Systems`
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/hammadAsher100/Agentic_ai_Physics_law">🔴 Project Tartarus</a>
+      </h3>
+      <p><strong>Award winning cognitive arbitration engine</strong></p>
+      <p>Autonomous agents cross examine reactor telemetry through explicit physics constraints, redact prompt injection payloads, maintain isolated context, and produce structured arbitration results.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Multi--Agent-58a6ff?style=flat-square"/>
-        <img src="https://img.shields.io/badge/REST%20APIs-FF6B6B?style=flat-square"/>
+        <code>Python</code>
+        <code>Multi Agent AI</code>
+        <code>LLM Orchestration</code>
+        <code>Prompt Security</code>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎭 Emotion Classification Pipeline</h3>
-      <p><em>31-model ensemble · Macro F1: 0.877</em></p>
-      <p>Multi-label emotion classifier exploring 31 configurations across traditional ML and ensemble models. Used <code>librosa</code> MFCCs for audio feature extraction with stacking ensemble as the top performer.</p>
+      <h3>
+        <a href="https://github.com/hammadAsher100/Medimind---Ai-powered-Healthcare-platform">🏥 MediMind AI</a>
+      </h3>
+      <p><strong>Production oriented multi agent healthcare platform</strong></p>
+      <p>Combines disease risk models, SHAP explanations, medical document analysis, RAG, seven specialist agents, persistent memory, MLflow, Prometheus, Grafana, and Docker based service orchestration.</p>
       <p>
-        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-        <img src="https://img.shields.io/badge/librosa-FF6F00?style=flat-square"/>
-        <img src="https://img.shields.io/badge/F1%3A%200.877-2ea44f?style=flat-square"/>
+        <code>Django</code>
+        <code>FastAPI</code>
+        <code>Qdrant</code>
+        <code>PostgreSQL</code>
+        <code>Docker</code>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>✈️ Flight Delay Prediction</h3>
-      <p><em>Flask · scikit-learn · Live on Render</em></p>
-      <p>End-to-end ML web app predicting flight delays. Tackled Python 3.13 / scikit-learn compatibility issues, pickle serialization, and deployed to production on Render.</p>
+      <h3>
+        <a href="https://github.com/hammadAsher100/Clinic_Ai_Copilot">🩺 Clinical AI Co Pilot</a>
+      </h3>
+      <p><strong>Multimodal clinical decision support</strong></p>
+      <p>Unifies chest X ray analysis, heart risk assessment, symptom classification, Grad CAM, SHAP, LLM generated narratives, clinician review, and auditable PDF reporting.</p>
       <p>
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Deployed-2ea44f?style=flat-square"/>
+        <code>TensorFlow</code>
+        <code>CNN</code>
+        <code>ANN</code>
+        <code>BiLSTM</code>
+        <code>HITL</code>
       </p>
+      <a href="https://clinical-ai-copilot-production.up.railway.app">
+        <img src="https://img.shields.io/badge/Live_Demo-2EA44F?style=flat-square&logo=railway&logoColor=white" alt="Clinical AI live demo"/>
+      </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🏥 Hospital Management System</h3>
-      <p><em>Flask · SQL Server · PostgreSQL · Full-Stack</em></p>
-      <p>Full-stack hospital management web app covering patient records, appointment scheduling, and admin panels. Built with Flask and Django scaffolding, SQLAlchemy ORM.</p>
+      <h3>
+        <a href="https://github.com/hammadAsher100/Bank-Marketing-Customer-Subscription-Prediction-MLOps">🏦 Bank Prediction MLOps</a>
+      </h3>
+      <p><strong>End to end model lifecycle engineering</strong></p>
+      <p>Production style pipeline with LightGBM and XGBoost, data validation, feature engineering, FastAPI serving, Streamlit UI, MLflow tracking, drift monitoring, tests, Docker images, and automated workflows.</p>
       <p>
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square"/>
+        <code>XGBoost</code>
+        <code>LightGBM</code>
+        <code>MLflow</code>
+        <code>FastAPI</code>
+        <code>CI/CD</code>
       </p>
+      <a href="https://huggingface.co/spaces/Unknown213141/BankPrediction">
+        <img src="https://img.shields.io/badge/Live_Demo-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Bank prediction live demo"/>
+      </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎮 Quiz Application</h3>
-      <p><em>C# · Windows Forms · Admin + Student Roles</em></p>
-      <p>Role-based quiz system in C#. Admins manage question banks; students take timed quizzes. Built procedurally with a clean separation between admin and user modules.</p>
+      <h3>
+        <a href="https://github.com/hammadAsher100/Multimodel_RAG_application">📚 Multimodal RAG</a>
+      </h3>
+      <p><strong>Grounded search across documents and images</strong></p>
+      <p>Processes PDF, DOCX, TXT, and image content through text and CLIP embeddings, persistent ChromaDB storage, semantic retrieval, source attribution, and Groq powered response generation.</p>
       <p>
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Windows_Forms-0078D4?style=flat-square&logo=windows&logoColor=white"/>
+        <code>RAG</code>
+        <code>CLIP</code>
+        <code>ChromaDB</code>
+        <code>Streamlit</code>
+        <code>Groq</code>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌦️ Weather & Finance Dashboard</h3>
-      <p><em>HTML · CSS · JavaScript · Live APIs</em></p>
-      <p>Real-time dashboard combining weather data and financial market information via public APIs. Clean UI with dynamic data rendering and responsive layout.</p>
+      <h3>
+        <a href="https://github.com/hammadAsher100/ZipIt-Smart">🗜️ ZipITSmart</a>
+      </h3>
+      <p><strong>Huffman compression system in C#</strong></p>
+      <p>Windows Forms application for binary safe compression and decompression of files, images, and folders, with archive metadata, dispatcher based processing, and compression ratio reporting.</p>
       <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/REST%20APIs-58a6ff?style=flat-square"/>
+        <code>C#</code>
+        <code>.NET</code>
+        <code>Huffman Coding</code>
+        <code>Windows Forms</code>
       </p>
     </td>
   </tr>
@@ -166,46 +200,134 @@ class Hammad:
 
 <br/>
 
----
-
-## `$ cat ./currently_learning.txt`
-
-<br/>
+## `05. Technical Arsenal`
 
 <div align="center">
 
-| Module | Topic | Status |
-|--------|-------|--------|
-| 🖥️ **Operating Systems** | CPU scheduling, synchronization, shell scripting | `In Progress` |
-| 🗄️ **DBMS** | Normalization, relational algebra, SQL optimization | `In Progress` |
-| 🏗️ **Software Design & Architecture** | Design patterns — Factory, Observer, MVC, Adapter, Proxy... | `In Progress` |
-| 📊 **Algorithms** | Dynamic programming, complexity analysis, graph algorithms | `In Progress` |
+### Languages
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C Sharp"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+
+### AI, Machine Learning, and Data
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit learn"/>
+<img src="https://img.shields.io/badge/XGBoost-EB5B2D?style=for-the-badge&logoColor=white" alt="XGBoost"/>
+<img src="https://img.shields.io/badge/SHAP-111111?style=for-the-badge&logoColor=white" alt="SHAP"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+
+### Generative AI and Retrieval
+
+<img src="https://img.shields.io/badge/Multi_Agent_AI-1F6FEB?style=for-the-badge&logoColor=white" alt="Multi Agent AI"/>
+<img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge&logoColor=white" alt="RAG"/>
+<img src="https://img.shields.io/badge/LLM_APIs-111111?style=for-the-badge&logo=openai&logoColor=white" alt="LLM APIs"/>
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white" alt="ChromaDB"/>
+
+### Backend and Application Development
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
+<img src="https://img.shields.io/badge/REST_APIs-1F6FEB?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
+
+### Infrastructure, Cloud, and Observability
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render"/>
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway"/>
+
+### Databases
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logoColor=white" alt="SQL Server"/>
 
 </div>
 
 <br/>
----
 
-## `$ ping me`
+## `06. How I Build`
 
-<div align="center">
-
-> **Got an interesting project, collaboration idea, or just want to talk code? Hit me up.**
+| Layer                 | Engineering approach                                                                                                                    |
+| :-------------------- | :-------------------------------------------------------------------------------------------------------------------------------------- |
+| **Reasoning systems** | Explicit agent roles, constrained context, structured outputs, retries, memory boundaries, tool contracts, and deterministic validation |
+| **Machine learning**  | Data validation, feature engineering, comparative experiments, cross validation, explainability, and reproducible artifacts             |
+| **Backend systems**   | Decoupled services, typed APIs, authentication, persistent state, clear routing, and defensive error handling                           |
+| **MLOps**             | Containerized services, model tracking, testing, deployment workflows, monitoring, and operational debugging                            |
+| **Trust and safety**  | Human review, emergency checks, prompt injection defense, transparent confidence, and auditable decisions                               |
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hammad-asher-b08826329)
-&nbsp;
-[![Email](https://img.shields.io/badge/Drop%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hammadAsher100@gmail.com)
+## `07. GitHub Analytics`
+
+<div align="center">
+
+<a href="https://github.com/hammadAsher100">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=hammadAsher100&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Hammad's GitHub statistics"/>
+</a>
+<a href="https://github.com/hammadAsher100">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadAsher100&layout=compact&theme=github_dark&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5" alt="Hammad's most used languages"/>
+</a>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hammadAsher100&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub activity graph"/>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hammadAsher100/hammadAsher100/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hammadAsher100/hammadAsher100/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/hammadAsher100/hammadAsher100/output/github-contribution-grid-snake.svg"/>
+</picture>
 
 </div>
 
 <br/>
 
+## `08. Collaboration`
+
+I am interested in collaborating on:
+
+1. Agentic AI systems with real orchestration and evaluation
+2. Retrieval systems that require grounded, source aware responses
+3. Applied machine learning products with explainability
+4. MLOps pipelines that move models from experiments into production
+5. Backend intensive AI applications with clear architecture and observability
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=80&section=footer" width="100%"/>
+### Let us build something technically serious.
 
-<sub><code>// Built with caffeine, Stack Overflow, and occasional regret</code></sub>
+<a href="https://linkedin.com/in/hammad-asher-b08826329">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+</a>
+<a href="mailto:hammadAsher100@gmail.com">
+  <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email"/>
+</a>
+
+<br/><br/>
+
+<sub><code>Designing systems that reason clearly, fail safely, and ship reliably.</code></sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=120&section=footer" width="100%" alt="Footer"/>
 
 </div>
