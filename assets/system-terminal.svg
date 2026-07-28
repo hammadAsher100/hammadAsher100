@@ -1,0 +1,36 @@
+<svg width="1100" height="180" viewBox="0 0 1100 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1100" y2="180">
+      <stop stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="line" x1="80" y1="0" x2="1020" y2="0">
+      <stop stop-color="#58A6FF"/>
+      <stop offset="0.5" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#00D4FF"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="3" y="3" width="1094" height="174" rx="22" fill="url(#panel)" stroke="#30363D" stroke-width="2"/>
+  <circle cx="34" cy="29" r="5" fill="#FF5F56"/>
+  <circle cx="52" cy="29" r="5" fill="#FFBD2E"/>
+  <circle cx="70" cy="29" r="5" fill="#27C93F"/>
+  <text x="92" y="34" fill="#8B949E" font-family="monospace" font-size="14">mission_control.sh</text>
+
+  <text x="36" y="82" fill="#58A6FF" font-family="monospace" font-size="19">$</text>
+  <text x="60" y="82" fill="#C9D1D9" font-family="monospace" font-size="19">build systems that reason clearly</text>
+
+  <text x="36" y="118" fill="#58A6FF" font-family="monospace" font-size="19">$</text>
+  <text x="60" y="118" fill="#C9D1D9" font-family="monospace" font-size="19">fail safely</text>
+
+  <text x="36" y="154" fill="#58A6FF" font-family="monospace" font-size="19">$</text>
+  <text x="60" y="154" fill="#C9D1D9" font-family="monospace" font-size="19">ship reliably</text>
+
+  <rect x="229" y="140" width="12" height="20" fill="#58A6FF">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="760" y="62" width="278" height="72" rx="14" fill="#0B1220" stroke="url(#line)" stroke-opacity="0.7"/>
+  <text x="899" y="91" text-anchor="middle" fill="#8B949E" font-family="monospace" font-size="13">ACTIVE PROFILE</text>
+  <text x="899" y="116" text-anchor="middle" fill="#7DD3FC" font-family="monospace" font-size="18">AI SYSTEMS BUILDER</text>
+</svg>
